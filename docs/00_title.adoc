@@ -1,0 +1,25 @@
+= Surviving Open Source
+
+image:../assets/ec_sign.png[Eclipse Collections Sign]
+
+=== Donald Raab
+==== IntelliJ IDEA Conf 2022
+---
+
+link:01_intro.adoc[➡️ Introduction]
+
+[source,java]
+.RedundantThrowsClause.java
+----
+class HelloWorld {
+    public static void main(String[] args){
+        System.out.println(1234);
+    }
+}
+----
+
+
+
+
+
+===== link:https://twitter.com/TheDonRaab[@TheDonRaab]

@@ -1,0 +1,10 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="FeatureEnvy" enabled="false" level="WEAK WARNING" enabled_by_default="false" editorAttributes="INFO_ATTRIBUTES">
+      <option name="ignoreTestCases" value="false" />
+    </inspection_tool>
+    <inspection_tool class="MagicNumber" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RedundantRecordConstructor" enabled="true" level="IncorrectRecordConstructor" enabled_by_default="true" editorAttributes="IncorrectRecordConstructor" />
+  </profile>
+</component>

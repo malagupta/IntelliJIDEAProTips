@@ -1,0 +1,24 @@
+== Planning for Survival
+
+image:../assets/karaoke.png[Karaoke,350,float=right]
+
+==== Success is goal oriented
+* Keys to success -- *Passion*, *Patience*, *Persistence*
+
+==== Survival is journey oriented
+* Keys to survival -- *People*, *Purpose*, *Progress*, *Perseverance*
+
+==== Planning a long journey
+* Think in decades
+* Reflect on goals
+* Grow the Community
+* Celebrate wins
+* Prioritize self care
+* Look for forks in the road
+* Let it grow
+
+---
+
+link:./00_toc.adoc[⬆️ TOC] /
+link:03_the_long_road.adoc[⬅️ The Long Road] /
+link:./05_think_decades.adoc[➡️ Think Decades]

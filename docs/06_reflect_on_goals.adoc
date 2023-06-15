@@ -1,0 +1,41 @@
+== Reflect on goals - Past
+
+===== My Goals in 2017
+
+|===
+|Goal |Status |Result
+
+|Help improve Java
+|On-going
+|[.line-through]#Java 8, 9#...
+
+|Achieve Smalltalk productivity level
+|#Complete (Collections only)#
+|Eclipse Collections
+
+|Help get Lambdas into Java
+|#Complete#
+|Java 8 (JSR 335)
+
+|Build a community of users
+|On-going
+|Eclipse Collections
+
+|"Free as in speech"
+|#Complete#
+|Eclipse Collections
+
+|Teach several million Java developers
+|On-going
+|Eclipse Collections Katas / Talks
+
+|Create JSR for Collections 2.0
+|#Abandoned#
+|Requires funding and support
+|===
+
+---
+
+link:./00_toc.adoc[⬆️ TOC] /
+link:05_think_decades.adoc[⬅️ Think Decades] /
+link:./06a_reflect_on_goals.adoc[➡️ Reflect on goals - Today]
